@@ -1,19 +1,19 @@
-[**Home**](index.md) | [**Links**](links.md) | [**Commands**](commands.md) | [**Info**](info.md) | [**API Docs**](https://web.cytrus.ga/api) | [**Dashboard**](https://web.cytrus.ga)
+[**Home**](index.md) | [**Links**](links.md) | [**Commands**](commands.md) | [**Info**](info.md) | [**API Docs**](https://dixy.glitch.me/api) | [**Dashboard**](https://dixy.glitch.me)
 
   
   
   
 # API
-[Visit](https://web.cytrus.ga/api/)
+[Visit](https://dixy.glitch.me/api/)
 ​
 # Bot List
-[Visit](https://discordbotlist.com/bots/526593597118873620/)
+[Visit](https://discordbotlist.com/bots/685699686858096652/)
 ​
 # Upvote
-[Visit](https://discordbotlist.com/bots/526593597118873620/upvote)
+[Visit](https://discordbotlist.com/bots/685699686858096652/upvote)
 ​
 # Invite
-[Visit](https://discordapp.com/oauth2/authorize?client_id=526593597118873620&scope=bot&permissions=8)
+[Visit](https://discordapp.com/oauth2/authorize?client_id=685699686858096652&scope=bot&permissions=8)
 ​
 # Server
-[Visit](https://discord.gg/VfTE9GH)
+[Visit](https://discord.gg/ZXsnRUH)
